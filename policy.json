@@ -1,0 +1,149 @@
+{
+  "_comment": "Source of index.html: run build.ps1 after editing. Order = order on the page.",
+  "email": "cofsopen@gmail.com",
+  "languages": [
+    {
+      "code": "en", "label": "English", "title": "Privacy Policy", "updated": "Last updated: October 21, 2026",
+      "lead": "NetFo is a desktop app that keeps your personal finance records only on your computer. It collects no personal data.",
+      "sections": [
+        ["Data we collect", "None. NetFo has no sign-up and never asks for your name, email address, location or any other personal information. It contains no advertising, analytics or tracking."],
+        ["Where your data is stored", "The income, expenses, accounts, debts and investments you enter are stored only in the app's data folder on your computer. If you turn on the app password, that file is encrypted with it. Backups are written only to the folder you choose, encrypted when the password is on."],
+        ["Internet use", "NetFo connects to the internet only to fetch current currency, gold and crypto prices. These requests carry no financial records or personal information — only which prices are needed. Sources: open.er-api.com, api.frankfurter.dev (European Central Bank data) and api.coingecko.com, each under its own privacy policy."],
+        ["Optional local AI", "If you turn on \"Local AI\", the sentences you type are sent only to Ollama running on your own computer; the app does not allow any other address."],
+        ["Children", "NetFo does not knowingly collect data from children — it collects no data from anyone."],
+        ["Deleting your data", "Uninstalling the app or deleting its data folder (Settings → Your data → Open folder) removes all records. Backups stay in the folder you chose until you delete them."],
+        ["Contact", "@email"]
+      ]
+    },
+    {
+      "code": "tr", "label": "Türkçe", "title": "Gizlilik Politikası", "updated": "Son güncelleme: 21 Ekim 2026",
+      "lead": "NetFo, kişisel finans kayıtlarını yalnızca senin bilgisayarında tutan bir masaüstü uygulamasıdır. Hiçbir kişisel veri toplamaz.",
+      "sections": [
+        ["Topladığımız veriler", "Hiçbiri. NetFo hesap açtırmaz; adını, e-posta adresini, konumunu ya da başka bir kişisel bilgini istemez. Reklam, analiz (analytics) veya takip aracı içermez."],
+        ["Verilerin nerede saklanır", "Girdiğin gelir, gider, hesap, borç ve yatırım kayıtları yalnızca bilgisayarındaki uygulama veri klasöründe saklanır. Uygulama şifresini açarsan bu dosya şifrenle şifrelenir. Yedekler, yalnızca senin seçtiğin klasöre ve şifre açıksa şifreli olarak kaydedilir."],
+        ["İnternet kullanımı", "NetFo internete yalnızca güncel döviz, altın ve kripto fiyatlarını almak için bağlanır. Bu isteklerde finansal kayıtların veya kişisel bilgilerin gönderilmez; yalnızca hangi fiyatların istendiği iletilir. Kullanılan kaynaklar: open.er-api.com, api.frankfurter.dev (Avrupa Merkez Bankası verileri) ve api.coingecko.com. Bu servislerin kendi gizlilik politikaları geçerlidir."],
+        ["İsteğe bağlı yerel yapay zekâ", "\"Yerel yapay zekâ\" özelliğini açarsan, yazdığın cümleler yalnızca kendi bilgisayarında çalışan Ollama'ya gönderilir; uygulama başka bir adrese izin vermez."],
+        ["Çocuklar", "NetFo çocuklardan bilerek veri toplamaz; zaten hiçbir kullanıcıdan veri toplamaz."],
+        ["Verilerini silmek", "Uygulamayı kaldırdığında veya veri klasörünü (Ayarlar → Verilerin → Klasörü aç) sildiğinde tüm kayıtların silinir. Yedeklerin, seçtiğin klasörde sen silene kadar kalır."],
+        ["İletişim", "@email"]
+      ]
+    },
+    {
+      "code": "de", "label": "Deutsch", "title": "Datenschutzerklärung", "updated": "Zuletzt aktualisiert: 21. Oktober 2026",
+      "lead": "NetFo ist eine Desktop-App, die deine Finanzdaten ausschließlich auf deinem Computer speichert. Sie erhebt keine personenbezogenen Daten.",
+      "sections": [
+        ["Welche Daten wir erheben", "Keine. NetFo verlangt keine Anmeldung und fragt nie nach deinem Namen, deiner E-Mail-Adresse, deinem Standort oder anderen persönlichen Angaben. Die App enthält keine Werbung, keine Analyse- und keine Tracking-Werkzeuge."],
+        ["Wo deine Daten gespeichert sind", "Die Einnahmen, Ausgaben, Konten, Schulden und Geldanlagen, die du eingibst, werden nur im Datenordner der App auf deinem Computer gespeichert. Wenn du das App-Passwort aktivierst, wird diese Datei damit verschlüsselt. Sicherungen werden nur in den Ordner geschrieben, den du auswählst – bei aktivem Passwort verschlüsselt."],
+        ["Internetnutzung", "NetFo verbindet sich nur mit dem Internet, um aktuelle Devisen-, Gold- und Kryptopreise abzurufen. Diese Anfragen enthalten keine Finanzdaten und keine persönlichen Angaben – nur, welche Preise benötigt werden. Quellen: open.er-api.com, api.frankfurter.dev (Daten der Europäischen Zentralbank) und api.coingecko.com, jeweils mit eigener Datenschutzerklärung."],
+        ["Optionale lokale KI", "Wenn du „Lokale KI“ aktivierst, werden deine eingegebenen Sätze nur an Ollama auf deinem eigenen Computer gesendet; die App lässt keine andere Adresse zu."],
+        ["Kinder", "NetFo erhebt wissentlich keine Daten von Kindern – die App erhebt von niemandem Daten."],
+        ["Deine Daten löschen", "Wenn du die App deinstallierst oder ihren Datenordner löschst (Einstellungen → Deine Daten → Ordner öffnen), werden alle Einträge entfernt. Sicherungen bleiben im gewählten Ordner, bis du sie löschst."],
+        ["Kontakt", "@email"]
+      ]
+    },
+    {
+      "code": "fr", "label": "Français", "title": "Politique de confidentialité", "updated": "Dernière mise à jour : 21 octobre 2026",
+      "lead": "NetFo est une application de bureau qui conserve tes données financières uniquement sur ton ordinateur. Elle ne collecte aucune donnée personnelle.",
+      "sections": [
+        ["Données collectées", "Aucune. NetFo ne demande aucune inscription et ne te demande jamais ton nom, ton adresse e-mail, ta position ni aucune autre information personnelle. L'application ne contient ni publicité, ni outil d'analyse, ni pistage."],
+        ["Où sont stockées tes données", "Les revenus, dépenses, comptes, dettes et placements que tu saisis sont stockés uniquement dans le dossier de données de l'application sur ton ordinateur. Si tu actives le mot de passe de l'application, ce fichier est chiffré avec lui. Les sauvegardes sont écrites uniquement dans le dossier que tu choisis, chiffrées lorsque le mot de passe est actif."],
+        ["Utilisation d'Internet", "NetFo se connecte à Internet uniquement pour récupérer les cours actuels des devises, de l'or et des cryptomonnaies. Ces requêtes ne contiennent ni données financières ni informations personnelles – seulement les cours demandés. Sources : open.er-api.com, api.frankfurter.dev (données de la Banque centrale européenne) et api.coingecko.com, chacune soumise à sa propre politique de confidentialité."],
+        ["IA locale facultative", "Si tu actives « IA locale », les phrases que tu tapes sont envoyées uniquement à Ollama exécuté sur ton propre ordinateur ; l'application n'autorise aucune autre adresse."],
+        ["Enfants", "NetFo ne collecte sciemment aucune donnée auprès des enfants – elle ne collecte de données auprès de personne."],
+        ["Supprimer tes données", "Désinstaller l'application ou supprimer son dossier de données (Paramètres → Tes données → Ouvrir le dossier) efface toutes les écritures. Les sauvegardes restent dans le dossier choisi jusqu'à ce que tu les supprimes."],
+        ["Contact", "@email"]
+      ]
+    },
+    {
+      "code": "es", "label": "Español", "title": "Política de privacidad", "updated": "Última actualización: 21 de octubre de 2026",
+      "lead": "NetFo es una aplicación de escritorio que guarda tus datos financieros solo en tu ordenador. No recopila ningún dato personal.",
+      "sections": [
+        ["Datos que recopilamos", "Ninguno. NetFo no requiere registro y nunca te pide tu nombre, correo electrónico, ubicación ni ningún otro dato personal. No contiene publicidad, analítica ni rastreo."],
+        ["Dónde se guardan tus datos", "Los ingresos, gastos, cuentas, deudas e inversiones que introduces se guardan solo en la carpeta de datos de la aplicación en tu ordenador. Si activas la contraseña de la aplicación, ese archivo se cifra con ella. Las copias de seguridad se guardan solo en la carpeta que elijas, cifradas cuando la contraseña está activa."],
+        ["Uso de internet", "NetFo se conecta a internet solo para obtener los precios actuales de divisas, oro y criptomonedas. Estas solicitudes no incluyen datos financieros ni información personal, solo qué precios se necesitan. Fuentes: open.er-api.com, api.frankfurter.dev (datos del Banco Central Europeo) y api.coingecko.com, cada una con su propia política de privacidad."],
+        ["IA local opcional", "Si activas «IA local», las frases que escribes se envían solo a Ollama en tu propio ordenador; la aplicación no permite ninguna otra dirección."],
+        ["Menores", "NetFo no recopila a sabiendas datos de menores; no recopila datos de nadie."],
+        ["Eliminar tus datos", "Al desinstalar la aplicación o eliminar su carpeta de datos (Ajustes → Tus datos → Abrir carpeta) se borran todos los registros. Las copias de seguridad permanecen en la carpeta elegida hasta que las elimines."],
+        ["Contacto", "@email"]
+      ]
+    },
+    {
+      "code": "it", "label": "Italiano", "title": "Informativa sulla privacy", "updated": "Ultimo aggiornamento: 21 ottobre 2026",
+      "lead": "NetFo è un'app desktop che conserva i tuoi dati finanziari solo sul tuo computer. Non raccoglie alcun dato personale.",
+      "sections": [
+        ["Dati raccolti", "Nessuno. NetFo non richiede registrazione e non chiede mai nome, indirizzo email, posizione o altre informazioni personali. Non contiene pubblicità, strumenti di analisi né tracciamento."],
+        ["Dove sono conservati i tuoi dati", "Le entrate, le spese, i conti, i debiti e gli investimenti che inserisci sono conservati solo nella cartella dati dell'app sul tuo computer. Se attivi la password dell'app, il file viene cifrato con essa. I backup vengono scritti solo nella cartella che scegli, cifrati quando la password è attiva."],
+        ["Uso di internet", "NetFo si collega a internet solo per ottenere i prezzi attuali di valute, oro e criptovalute. Queste richieste non contengono dati finanziari né informazioni personali, ma solo quali prezzi servono. Fonti: open.er-api.com, api.frankfurter.dev (dati della Banca centrale europea) e api.coingecko.com, ciascuna con la propria informativa sulla privacy."],
+        ["IA locale facoltativa", "Se attivi «IA locale», le frasi che scrivi vengono inviate solo a Ollama in esecuzione sul tuo computer; l'app non consente nessun altro indirizzo."],
+        ["Minori", "NetFo non raccoglie consapevolmente dati dai minori: non raccoglie dati da nessuno."],
+        ["Eliminare i tuoi dati", "Disinstallando l'app o eliminando la sua cartella dati (Impostazioni → I tuoi dati → Apri cartella) vengono rimossi tutti i movimenti. I backup restano nella cartella scelta finché non li elimini."],
+        ["Contatti", "@email"]
+      ]
+    },
+    {
+      "code": "pt", "label": "Português", "title": "Política de privacidade", "updated": "Última atualização: 21 de outubro de 2026",
+      "lead": "O NetFo é um app para desktop que guarda seus dados financeiros apenas no seu computador. Ele não coleta nenhum dado pessoal.",
+      "sections": [
+        ["Dados que coletamos", "Nenhum. O NetFo não exige cadastro e nunca pede seu nome, e-mail, localização ou qualquer outra informação pessoal. Não contém anúncios, ferramentas de análise nem rastreamento."],
+        ["Onde seus dados ficam", "As receitas, despesas, contas, dívidas e investimentos que você registra ficam apenas na pasta de dados do app no seu computador. Se você ativar a senha do app, esse arquivo é criptografado com ela. Os backups são gravados apenas na pasta que você escolher, criptografados quando a senha está ativa."],
+        ["Uso da internet", "O NetFo se conecta à internet apenas para buscar as cotações atuais de moedas, ouro e criptomoedas. Essas solicitações não levam dados financeiros nem informações pessoais, apenas quais cotações são necessárias. Fontes: open.er-api.com, api.frankfurter.dev (dados do Banco Central Europeu) e api.coingecko.com, cada uma com sua própria política de privacidade."],
+        ["IA local opcional", "Se você ativar \"IA local\", as frases que você digita são enviadas apenas ao Ollama rodando no seu próprio computador; o app não permite nenhum outro endereço."],
+        ["Crianças", "O NetFo não coleta intencionalmente dados de crianças; ele não coleta dados de ninguém."],
+        ["Excluir seus dados", "Desinstalar o app ou excluir a pasta de dados (Configurações → Seus dados → Abrir pasta) remove todos os registros. Os backups ficam na pasta escolhida até você excluí-los."],
+        ["Contato", "@email"]
+      ]
+    },
+    {
+      "code": "ru", "label": "Русский", "title": "Политика конфиденциальности", "updated": "Последнее обновление: 21 октября 2026 г.",
+      "lead": "NetFo — настольное приложение, которое хранит ваши финансовые записи только на вашем компьютере. Оно не собирает никаких персональных данных.",
+      "sections": [
+        ["Какие данные мы собираем", "Никаких. NetFo не требует регистрации и никогда не запрашивает ваше имя, адрес электронной почты, местоположение или другие личные сведения. В приложении нет рекламы, аналитики и отслеживания."],
+        ["Где хранятся ваши данные", "Доходы, расходы, счета, долги и инвестиции, которые вы вводите, хранятся только в папке данных приложения на вашем компьютере. Если вы включите пароль приложения, этот файл шифруется им. Резервные копии записываются только в выбранную вами папку и шифруются, если пароль включён."],
+        ["Использование интернета", "NetFo подключается к интернету только для получения актуальных курсов валют, золота и криптовалют. Эти запросы не содержат финансовых записей и личных сведений — только то, какие курсы нужны. Источники: open.er-api.com, api.frankfurter.dev (данные Европейского центрального банка) и api.coingecko.com; у каждого своя политика конфиденциальности."],
+        ["Дополнительный локальный ИИ", "Если вы включите «Локальный ИИ», введённые вами фразы отправляются только в Ollama на вашем собственном компьютере; приложение не допускает других адресов."],
+        ["Дети", "NetFo сознательно не собирает данные детей — оно вообще ни у кого не собирает данные."],
+        ["Удаление данных", "При удалении приложения или его папки данных (Настройки → Ваши данные → Открыть папку) все записи удаляются. Резервные копии остаются в выбранной папке, пока вы их не удалите."],
+        ["Контакты", "@email"]
+      ]
+    },
+    {
+      "code": "ja", "label": "日本語", "title": "プライバシーポリシー", "updated": "最終更新日：2026年10月21日",
+      "lead": "NetFo は、あなたの家計データをお使いのパソコンだけに保存するデスクトップアプリです。個人データは一切収集しません。",
+      "sections": [
+        ["収集するデータ", "ありません。NetFo は登録不要で、名前・メールアドレス・位置情報などの個人情報を求めることはありません。広告、分析ツール、トラッキングも含まれていません。"],
+        ["データの保存場所", "入力した収入・支出・口座・借金・投資の記録は、パソコン上のアプリのデータフォルダーにのみ保存されます。アプリのパスワードをオンにすると、このファイルはパスワードで暗号化されます。バックアップはあなたが選んだフォルダーにのみ保存され、パスワードがオンのときは暗号化されます。"],
+        ["インターネットの利用", "NetFo がインターネットに接続するのは、為替・金・暗号資産の最新価格を取得するときだけです。この通信には家計データも個人情報も含まれず、必要な価格の種類だけが送られます。取得元：open.er-api.com、api.frankfurter.dev（欧州中央銀行のデータ）、api.coingecko.com。各サービスにはそれぞれのプライバシーポリシーが適用されます。"],
+        ["任意のローカル AI", "「ローカル AI」をオンにすると、入力した文はお使いのパソコン上で動作する Ollama にのみ送られます。アプリはほかのアドレスを許可しません。"],
+        ["子ども", "NetFo は子どもから意図的にデータを収集しません。そもそも誰からもデータを収集しません。"],
+        ["データの削除", "アプリをアンインストールするか、データフォルダー（設定 → データ → フォルダーを開く）を削除すると、すべての記録が削除されます。バックアップは、あなたが削除するまで選んだフォルダーに残ります。"],
+        ["お問い合わせ", "@email"]
+      ]
+    },
+    {
+      "code": "zh", "label": "简体中文", "title": "隐私政策", "updated": "最后更新：2026年10月21日",
+      "lead": "NetFo 是一款桌面应用，只把你的理财记录保存在你自己的电脑上。它不收集任何个人数据。",
+      "sections": [
+        ["我们收集的数据", "没有。NetFo 无需注册，从不要求你提供姓名、电子邮件地址、位置或任何其他个人信息。应用中没有广告、分析工具或追踪。"],
+        ["数据保存位置", "你录入的收入、支出、账户、债务和投资只保存在你电脑上的应用数据文件夹中。开启应用密码后，该文件会用密码加密。备份只会写入你选择的文件夹，开启密码时同样加密。"],
+        ["联网用途", "NetFo 仅为获取最新的外汇、黄金和加密货币价格而联网。这些请求不包含理财记录或个人信息，只包含需要哪些价格。来源：open.er-api.com、api.frankfurter.dev（欧洲央行数据）和 api.coingecko.com，各自适用其隐私政策。"],
+        ["可选的本地 AI", "如果你开启“本地 AI”，你输入的句子只会发送给在你自己电脑上运行的 Ollama；应用不允许其他任何地址。"],
+        ["儿童", "NetFo 不会有意收集儿童的数据——它不收集任何人的数据。"],
+        ["删除数据", "卸载应用或删除其数据文件夹（设置 → 你的数据 → 打开文件夹）会删除所有记录。备份会留在你选择的文件夹中，直到你删除它们。"],
+        ["联系方式", "@email"]
+      ]
+    },
+    {
+      "code": "ar", "label": "العربية", "title": "سياسة الخصوصية", "updated": "آخر تحديث: 21 أكتوبر 2026", "rtl": true,
+      "lead": "NetFo تطبيق لسطح المكتب يحفظ سجلاتك المالية على جهازك فقط. لا يجمع أي بيانات شخصية.",
+      "sections": [
+        ["البيانات التي نجمعها", "لا شيء. لا يتطلب NetFo تسجيلًا، ولا يطلب أبدًا اسمك أو بريدك الإلكتروني أو موقعك أو أي معلومات شخصية أخرى. لا يحتوي على إعلانات أو أدوات تحليل أو تتبّع."],
+        ["أين تُحفظ بياناتك", "يُحفظ الدخل والمصروفات والحسابات والديون والاستثمارات التي تُدخلها في مجلد بيانات التطبيق على جهازك فقط. إذا فعّلت كلمة مرور التطبيق، يُشفَّر هذا الملف بها. تُحفظ النسخ الاحتياطية في المجلد الذي تختاره فقط، ومشفّرة عند تفعيل كلمة المرور."],
+        ["استخدام الإنترنت", "يتصل NetFo بالإنترنت فقط لجلب الأسعار الحالية للعملات والذهب والعملات المشفّرة. لا تحمل هذه الطلبات أي سجلات مالية أو معلومات شخصية، بل الأسعار المطلوبة فقط. المصادر: open.er-api.com وapi.frankfurter.dev (بيانات البنك المركزي الأوروبي) وapi.coingecko.com، ولكل منها سياسة خصوصية خاصة بها."],
+        ["الذكاء الاصطناعي المحلي الاختياري", "إذا فعّلت «الذكاء الاصطناعي المحلي»، تُرسل الجمل التي تكتبها فقط إلى Ollama الذي يعمل على جهازك؛ ولا يسمح التطبيق بأي عنوان آخر."],
+        ["الأطفال", "لا يجمع NetFo بيانات الأطفال عن قصد، فهو لا يجمع بيانات من أي أحد."],
+        ["حذف بياناتك", "يؤدي إلغاء تثبيت التطبيق أو حذف مجلد بياناته (الإعدادات ← بياناتك ← فتح المجلد) إلى حذف جميع السجلات. تبقى النسخ الاحتياطية في المجلد الذي اخترته حتى تحذفها."],
+        ["التواصل", "@email"]
+      ]
+    }
+  ]
+}
